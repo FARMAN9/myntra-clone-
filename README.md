@@ -48,7 +48,7 @@ Before you begin, ensure you have met the following requirements:
 **For the frontend:
 ```bash
 Copy code
-cd ../myntra-react
+cd myntra-react
 npm install
 npm run dev
  ```  
