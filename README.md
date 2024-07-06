@@ -54,7 +54,7 @@ npm run dev
  ```
 ## Snaps  
 -Loading
-![Myntra Clone Screenshot](./path/to/your/image0.png)
+![Myntra Clone Screenshot](https://github.com/FARMAN9/myntra-clone-/blob/main/snaps/image0.png)
 
    
 
