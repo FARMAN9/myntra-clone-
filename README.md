@@ -31,10 +31,18 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clonehttps://github.com/FARMAN9/myntra-clone-.git
    cd myntra-clone-
- ```bash 
-     cd backend
-      npm install
-   
+For the backend:
+
+bash
+Copy code
+cd backend
+npm install
+For the frontend:
+
+bash
+Copy code
+cd ../frontend
+npm install
    
 
    
