@@ -55,6 +55,11 @@ npm run dev
 ## Snaps  
 -Loading
 ![Myntra Clone Screenshot](https://github.com/FARMAN9/myntra-clone-/blob/main/snaps/image0.png)
+-Product Listing
+![Myntra Clone Screenshot](https://github.com/FARMAN9/myntra-clone-/blob/main/snaps/image1.png)
+-Cart
+![Myntra Clone Screenshot](https://github.com/FARMAN9/myntra-clone-/blob/main/snaps/image2.png)
+
 
    
 
