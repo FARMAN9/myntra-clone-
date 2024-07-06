@@ -25,26 +25,33 @@ Before you begin, ensure you have met the following requirements:
 - Node.js installed (v12 or higher)
 
 
-## Installation
+## Installation and start 
 
 1. **Clone the repository:**
    ```bash
    git clonehttps://github.com/FARMAN9/myntra-clone-.git
    cd myntra-clone-
-#For the backend:
+   ```
 
+
+
+
+**For the backend:
 ```bash
-cd backend
-npm install
+    cd backend
+    npm install
+    npm start 
+```
 
 
-#For the frontend:
 
+**For the frontend:
 ```bash
 Copy code
-cd ../frontend
+cd ../myntra-react
 npm install
-   
+npm run dev
+ ```  
 
    
 
