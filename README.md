@@ -51,7 +51,10 @@ Copy code
 cd myntra-react
 npm install
 npm run dev
- ```  
+ ```
+## Snaps  
+-Loading
+![Myntra Clone Screenshot](./path/to/your/image0.png)
 
    
 
