@@ -1,4 +1,4 @@
-# Myntra Clone
+# Myntra Clone  ![](public/youtube.png)
 
 This is a mini-project that replicates the core functionalities of the popular e-commerce platform Myntra using React.js for the front-end and Node.js for the back-end.
 
